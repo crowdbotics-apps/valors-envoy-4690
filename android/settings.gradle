@@ -1,0 +1,3 @@
+rootProject.name = 'valors_envoy_4690'
+
+include ':app'

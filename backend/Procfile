@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT valors_envoy_4690.wsgi:application
